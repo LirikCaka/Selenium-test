@@ -48,6 +48,9 @@ public class PracticePage {
         //System.out.println("password = " + password);
 
 
+        //just for commiting
+
+
         usernameEl.sendKeys(username);
         passwordEl.sendKeys(password);
         loginButton.click();
